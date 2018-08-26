@@ -21,4 +21,14 @@ use pool function to connect the SQL databse. <br>
 added limit connection time for connecting process :
 connectionTimeoutMillis: 1000
 
-
+## fuzzy search
+impelement fuzzy search from database.
+this fuzzy algo is for spell mistake and association with exsist table.
+## home page: 
+<img width="1436" alt="screen shot 2018-08-26 at 5 12 41 pm" src="https://user-images.githubusercontent.com/15969187/44633060-d8d4bb00-a953-11e8-89df-3df858a1bcad.png">
+## A sample of search
+<img width="1437" alt="screen shot 2018-08-26 at 5 13 03 pm" src="https://user-images.githubusercontent.com/15969187/44633061-d8d4bb00-a953-11e8-8691-8a4967f89762.png">
+## A sample of fuzzy search
+<img width="1432" alt="screen shot 2018-08-26 at 5 13 34 pm" src="https://user-images.githubusercontent.com/15969187/44633062-d96d5180-a953-11e8-9dff-1daa8e459ba3.png">
+## A sample of no match result
+<img width="1438" alt="screen shot 2018-08-26 at 5 14 05 pm" src="https://user-images.githubusercontent.com/15969187/44633063-d96d5180-a953-11e8-85ee-5290155dd7f7.png">
