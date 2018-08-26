@@ -22,7 +22,7 @@ added limit connection time for connecting process :
 connectionTimeoutMillis: 1000
 
 ## Fuzzy Search
-impelement fuzzy search from database.
+impelement fuzzy search from database. <br>
 this fuzzy algo is for spell mistake and association with exsist table.
 ## Home page: 
 <img width="1436" alt="screen shot 2018-08-26 at 5 12 41 pm" src="https://user-images.githubusercontent.com/15969187/44633060-d8d4bb00-a953-11e8-89df-3df858a1bcad.png"> <br>
