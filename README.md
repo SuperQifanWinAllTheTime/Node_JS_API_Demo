@@ -12,7 +12,7 @@ npm install <br>
 npm install express-react-views react react-dom <br>
 
 ## Restful API
-simple AIP is applied in to this project. <br>
+simple API is applied in to this project. <br>
 the process circle as following: <br>
 User Request -> server -> router -> function-> database -> server -> views -> User <br>
 
