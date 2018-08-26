@@ -1,0 +1,36 @@
+{
+  "name": "ws-product-nodejs",
+  "version": "0.1.0",
+  "description": "API work samples",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EQWorks/ws-product-nodejs.git"
+  },
+  "author": "woozyking",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EQWorks/ws-product-nodejs/issues"
+  },
+  "homepage": "https://github.com/EQWorks/ws-product-nodejs#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-react-views": "^0.10.5",
+    "pg": "^6.2.4",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "eslint": "^4.19.1",
+    "eslint-config-google": "^0.9.1",
+    "eslint-plugin-react": "^7.11.1",
+    "nodemon": "^1.11.0"
+  }
+}
